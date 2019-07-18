@@ -3,4 +3,4 @@
 
 Written in: C
 
-Contributers: Parker Ottaway, Derek Allen, Auston Hein
+Contributers: Parker Ottaway, Derek Allen and Auston Hein
