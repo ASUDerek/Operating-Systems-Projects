@@ -1,4 +1,4 @@
-/*******************************************************
+/**********************************************************************
  * Authors: Parker Ottaway, Derek Allen, Auston Hein
  * 
  * Description: This is a kernel module that takes in a
@@ -12,7 +12,7 @@
  * Purpose: To understand how data is stored and 
  * 			accessed in a computer.
  * 
- ******************************************************/
+ **********************************************************************/
 
 
 
